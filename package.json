@@ -1,0 +1,14 @@
+{
+  "name": "tuse.sdk",
+  "version": "1.0.0",
+  "description": "Tuse SDK позволяет интегрировать ваше приложение в Tuse Mini Apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "deadfonki",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.3.2"
+  }
+}
